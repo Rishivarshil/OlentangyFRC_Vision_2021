@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project NetworkTables)",
+    "extensions": [
+      {
+        "name": "Sim DriverStation",
+        "libName": "/Users/rishivarshilnelakurti/Documents/Robotics_2022/NetworkTables/build/jni/release/libhalsim_ds_socket.dylib",
+        "defaultEnabled": false
+      },
+      {
+        "name": "Sim GUI",
+        "libName": "/Users/rishivarshilnelakurti/Documents/Robotics_2022/NetworkTables/build/jni/release/libhalsim_gui.dylib",
+        "defaultEnabled": true
+      }
+    ],
+    "environment": {},
+    "libraryDir": "/Users/rishivarshilnelakurti/Documents/Robotics_2022/NetworkTables/build/jni/release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
